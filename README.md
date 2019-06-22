@@ -1,4 +1,4 @@
-ASSIGNMENT 1
+Book Review Application
 -------------
 
 Team members 
